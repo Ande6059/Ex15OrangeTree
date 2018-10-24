@@ -53,14 +53,7 @@ namespace Ex15OrangeTree
         }
         public void EatOrange(int v)
         {
-            if (Age >= 2 && Age >= 80)
-            {
-                v =+ v + 1;
-            }
-            else
-            {
-                throw Exception ""
-            }
+            
         }
 
 
