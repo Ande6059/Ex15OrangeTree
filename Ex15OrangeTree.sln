@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15OrangeTree", "Ex15OrangeTree\Ex15OrangeTree.csproj", "{5A459FBE-488D-4622-B605-DB9E50B20B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15OrangeTreeTest", "Ex15OrangeTreeTest\Ex15OrangeTreeTest.csproj", "{BC3C046B-1BB6-465A-886A-DD5E574F9AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A459FBE-488D-4622-B605-DB9E50B20B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A459FBE-488D-4622-B605-DB9E50B20B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A459FBE-488D-4622-B605-DB9E50B20B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A459FBE-488D-4622-B605-DB9E50B20B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3C046B-1BB6-465A-886A-DD5E574F9AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3C046B-1BB6-465A-886A-DD5E574F9AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3C046B-1BB6-465A-886A-DD5E574F9AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3C046B-1BB6-465A-886A-DD5E574F9AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A73D4AB-F4A9-42CF-BBE1-3157F2F47176}
+	EndGlobalSection
+EndGlobal
